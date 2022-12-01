@@ -65,5 +65,10 @@ a:hover {
   
     width: 50px;
     height: 25px;
+}
 
+.save-btn {
+  position: fixed;
+  top: 1em;
+  right: 1em;
 }
