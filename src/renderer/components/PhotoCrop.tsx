@@ -5,7 +5,9 @@ export default function PhotoCrop() {
     <>
     <h1>Please choose a photo to crop</h1>
     <input type="file" accept="image/*" />
-    <Link to="/"> &lt; Back</Link>
+    <button>
+    <Link className="small-btn" to="/"> &lt; Back</Link>
+    </button>
     </>
   )
 }

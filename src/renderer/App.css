@@ -60,3 +60,10 @@ a:hover {
   align-items: center;
   margin: 20px 0;
 }
+
+.small-btn {
+  
+    width: 50px;
+    height: 25px;
+
+}
